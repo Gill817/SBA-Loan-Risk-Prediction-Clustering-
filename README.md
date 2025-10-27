@@ -38,6 +38,7 @@ To help lenders and financial institutions:
 │ ├── output.twb
 ├── 📄 README.md
 └── 📄 LICENSE
+├── 📄 sba_loans_analysis.sql
 
 
 
@@ -74,6 +75,7 @@ this source is cited from official U.S. gov
 
 ## 🪪 **License**
 Distributed under the MIT License. See `LICENSE` for more information.
+
 
 
 
