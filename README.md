@@ -28,7 +28,6 @@ To help lenders and financial institutions:
 
 ## 🧱 **Project Structure**
 
-📂 SBA-Loan-Risk-Analytics
 ├── 📁 data/ sample data (large file link in README)
 ├── 📁 jupyter notebooks/
 │ ├── 01_EDA.ipynb
@@ -58,6 +57,7 @@ To help lenders and financial institutions:
 
 
 
+<img width="1706" height="959" alt="Dashboard 1" src="https://github.com/user-attachments/assets/31068684-4f73-4503-97d9-fae26779d6dd" />
 
 
 
@@ -70,5 +70,6 @@ To help lenders and financial institutions:
 
 ## 🪪 **License**
 Distributed under the MIT License. See `LICENSE` for more information.
+
 
 
